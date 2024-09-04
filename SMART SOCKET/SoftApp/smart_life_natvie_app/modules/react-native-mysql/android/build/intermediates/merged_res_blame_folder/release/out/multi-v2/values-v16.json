@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "expo.modules.mysql.react-native-mysql-mergeReleaseResources-23:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/liu/.gradle/caches/transforms-4/c86d9d1f180fe0343a88fda494f828ef/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/liu/.gradle/caches/transforms-4/75082bdd4d8937d749b66860ace123c3/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "expo.modules.mysql.react-native-mysql-merged_res-25:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/liu/.gradle/caches/transforms-4/c86d9d1f180fe0343a88fda494f828ef/transformed/core-1.12.0/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/liu/.gradle/caches/transforms-4/75082bdd4d8937d749b66860ace123c3/transformed/appcompat-1.6.1/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
